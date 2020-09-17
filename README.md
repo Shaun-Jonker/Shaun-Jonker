@@ -17,6 +17,7 @@
 
 
 <!-- Markdown -->
+### Joke Of The Moment
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -62,6 +63,8 @@
   <img align="left" alt="Shaun Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shaun-Jonker&show_icons=true&hide_border=true" />
 
 </details>
+
+### Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/Shaun-Jonker/count.svg)
 
