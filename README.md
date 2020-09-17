@@ -15,6 +15,11 @@
 [![Spotify](https://novatorem.shaun-jonker.vercel.app/api/spotify)](https://open.spotify.com/user/gfu4lu3bmuypjanqqhry0ra8q)
 
 
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 ### Connect with me:
 
 [<img align="left" alt="shaunjonker.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
