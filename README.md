@@ -1,4 +1,5 @@
-### Hi there, my name is Shaun AKA Hysterical Misfit [Shaun Jonker][website] 👋
+
+<img align="left" alt="Shauns Header" src="https://github.com/Shaun-Jonker/Shaun-Jonker/blob/master/header.png?raw=true" />
 
 [![Website](https://img.shields.io/website?label=Shaun-Jonker.com&style=for-the-badge&url=https%3A%2F%2Fshaunjonker.com)](https://www.shaunjonker.com)
 ![Twitter Follow](https://img.shields.io/twitter/follow/HystericalMisf1?color=1DA1F2&label=Hysterical%20Misfit&logo=twitter&style=for-the-badge)
@@ -61,6 +62,8 @@
   <img align="left" alt="Shaun Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shaun-Jonker&show_icons=true&hide_border=true" />
 
 </details>
+
+![Visitor Count](https://profile-counter.glitch.me/Shaun-Jonker/count.svg)
 
 [website]: https://www.shaunjonker.com
 [twitter]: https://twitter.com/HystericalMisf1
